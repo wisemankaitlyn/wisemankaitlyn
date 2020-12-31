@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University (class of 2023!)
 
@@ -6,7 +6,4 @@ I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University 
 - 🌱 I’m currently learning the finer points of Python
 - 💬 Ask me about my obsession with Todoist (and organization in general!)
 
-# [✉](mailto:kaitlynwiseman@cedarville.edu)  |  [💼](https://www.linkedin.com/in/kaitlyn-wiseman/)
-
-
-
+## [✉](mailto:kaitlynwiseman@cedarville.edu)  |  [💼](https://www.linkedin.com/in/kaitlyn-wiseman/)
