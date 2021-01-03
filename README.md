@@ -5,7 +5,7 @@ I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University 
 - 🔭 I’m currently working on speed running [Advent of Code 2019](https://github.com/wisemankaitlyn/AOC2019) + [practicing KiCAD](https://github.com/wisemankaitlyn/ECDI-KiCAD-Practice)
 - 🌱 I’m currently learning the finer points of Python
 
-[![email][2]][1]
+<!--[![email][2]][1] -->
 [![linkedin][3]][4]
 
 ### [✉](mailto:kaitlynwiseman@cedarville.edu)  |  [💼](https://www.linkedin.com/in/kaitlyn-wiseman/)
