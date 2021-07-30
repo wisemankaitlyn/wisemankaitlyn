@@ -2,8 +2,8 @@
 
 I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University (class of 2023!)
 
-- ⚙ I’m currently working on: sophomore year of college (related repos: [X](https://github.com/wisemankaitlyn/EGEE-2110-LaTeX))
-- 🌱 I’m currently learning: the finer points of Python
+- ⚙ I’m currently working on: junior year
+- 🌱 I’m currently learning: VHDL
 
 [![email][2]][1]  [![linkedin][3]][4]
 
