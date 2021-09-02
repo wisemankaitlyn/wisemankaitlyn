@@ -3,7 +3,7 @@
 I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University (class of 2023!)
 
 - ⚙ I’m currently working on: junior year
-- 🌱 I’m currently learning: VHDL
+- 🌱 I’m currently learning: VHDL (see: [BitSwapper](https://github.com/wisemankaitlyn/BitSwapper))
 
 [![email][2]][1]  [![linkedin][3]][4]
 
