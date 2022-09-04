@@ -2,7 +2,7 @@
 
 I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University (class of 2023!)
 
-- ⚙ I’m currently working on: senior year!!
+- ⚙ I’m currently working on: senior year!! (see: [my senior design project](https://github.com/RenMurakami/autonav))
 
 [![email][2]][1]  [![linkedin][3]][4]
 
