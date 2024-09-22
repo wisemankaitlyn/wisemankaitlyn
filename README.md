@@ -8,7 +8,7 @@ I'm Kaitlyn Wiseman, an Electrical Engineering student at Cedarville University 
 
 <!--### [✉](mailto:kaitlynwiseman@cedarville.edu)  |  [💼](https://www.linkedin.com/in/kaitlyn-wiseman/)-->
 
-[1]: mailto:kaitlynwiseman@cedarville.edu
+[1]: mailto:k.w.darst@gmail.com
 [2]: https://raw.githubusercontent.com/wisemankaitlyn/wisemankaitlyn/main/images/email.png
 [3]: https://raw.githubusercontent.com/wisemankaitlyn/wisemankaitlyn/main/images/linkedin.png
-[4]: https://www.linkedin.com/in/kaitlyn-wiseman/
+[4]: https://www.linkedin.com/in/kaitlyn-darst/
